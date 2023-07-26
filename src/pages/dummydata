@@ -1,0 +1,7 @@
+<div className="text-white font-light  tracking-wider capitalize text-sm  border-r-2 p-1 border-slate-100/10">Category</div>
+          <div className="text-white font-light  tracking-wider capitalize text-sm  border-r-2 p-1 border-slate-100/10">Tasks</div>
+          <div className="text-white font-light  tracking-wider capitalize text-sm  border-r-2 p-1 border-slate-100/10">assignee</div>
+          <div className="text-white font-light  tracking-wider capitalize text-sm  border-r-2 p-1 border-slate-100/10">start-date</div>
+          <div className="text-white font-light  tracking-wider capitalize text-sm  border-r-2 p-1 border-slate-100/10">end-date</div>
+          <div className="text-white font-light  tracking-wider capitalize text-sm  border-r-2 p-1 border-slate-100/10">status</div>
+          <div className="text-white font-light  tracking-wider capitalize text-sm  border-r-2 p-1 border-slate-100/10">priority</div>
